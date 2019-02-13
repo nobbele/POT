@@ -71,7 +71,11 @@ int test() {
 ```
 When formatted, if you know C you should understand how this works.
 This will get compiled into assembly which looks like
+
 https://pastebin.com/d6vDBAEy
+
 But the magic happens after the optimizations, this code will become
+
 https://pastebin.com/zQPNPmSv
+
 And there is the result, 15.
